@@ -1,5 +1,8 @@
 # TrustLayer – Invisible AI Provenance Stamp
 
+**Brought to you by the mysterious Mictoshi Nakamoto**  
+*(the shadowy figure who allegedly dropped this code in a dark alley and vanished like a true provenance ghost — voluntary labeling only, no double-spending allowed)*
+
 Open-source tool for adding **transparent, invisible watermarks** to AI-generated **images** and **audio** (voluntary labeling for trust & transparency).
 
 **Why?**  
@@ -20,4 +23,5 @@ Voluntary transparency tool only. Not foolproof – can be removed by adversarie
 
 ## Installation
 ```bash
+
 pip install -r requirements.txt
