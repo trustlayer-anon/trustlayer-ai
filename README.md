@@ -1,5 +1,8 @@
 # TrustLayer – Invisible AI Provenance Stamp
 
+**Brought to you by the mysterious Mictoshi Nakamoto**  
+*(the shadowy figure who allegedly dropped this code in a dark alley and vanished like a true provenance ghost — voluntary labeling only, no double-spending allowed)*
+
 Open-source invisible watermark for AI images and audio – voluntary transparency.
 
 **Images** – high-frequency self-similar stamp  
